@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#nav-mobile li a {
+  font-size: 1.2rem;
+  padding: 0 30px;
+}
+
+.dashbord {
+  margin-top: 100px;
+}
+
+.dashbord-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.dashbord-header h1 {
+  font-size: 32px;
+  margin: 0;
+}
+
+input.add-new-cell {
+  height: 14.5px;
+  margin: 0;
+}
+
+.add-item {
+  display: block;
+  text-align: center;
+  float: right;
+  margin-top: 20px;
+}
+
+.diagram {
+  padding: 70px 0;
+}
